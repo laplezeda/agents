@@ -1,1 +1,2 @@
 these are agent colab notebooks from vizuara agents bootcamp
+use google colab to open the broken files
